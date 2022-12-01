@@ -1,0 +1,39 @@
+---
+# Common
+net: RDAUNet # UNet, RDAUNet, UNet2, UNetpp
+bilinear: True
+n_epochs: 2000000000000000
+batch_size: 32
+dataset: busis_remote.yaml
+workers: 16
+cache: ram # ram or disk
+data_augmentation: True
+tensorboard: False
+random_seed: 42
+
+optimizer: RMSProp # Adam, RMSProp
+adam_beta1: 0.9
+adam_beta2: 0.999
+
+remote: True
+change_string: /workspace/shared_files/
+new_string: /home/imartinez/
+
+multi_gpu: False
+device: 'cuda:2'
+
+# Unet with WGan trainers
+pretrained_weights_generator: False
+pretrained_weights_critic: False
+#pretrained_weights_path_generator: /workspace/shared_files/TFM/Code/experiments/exp33/weights/last.pt
+pretrained_weights_path_generator: /home/imartinez/Code/experiments/exp3/weights/last.pt
+pretrained_weights_path_critic: /workspace/shared_files/TFM/Code/experiments/exp36/weights/best.pt
+critic: Critic1 # Critic1, Critic2, Critic3_CT_WGAN
+
+generator_learning_rate: 0.000003
+critic_learning_rate: 0.000003
+
+n_critic: 5
+consistency_term: False
+M: 0
+

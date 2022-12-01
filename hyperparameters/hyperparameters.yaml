@@ -1,0 +1,51 @@
+---
+######################
+######## UNET ########
+######################
+
+# Common
+net: UNetSharp2 # UNet, RDAUNet, UNet2, UNetpp, UnetSharp, UNetSharp2, UNetSharp_noSP, RCAIUNet, SegNet_VGG19, FCN8s, FCN16VGG, FCN32VGG, DeepLabV3_Xception, DeepLabV3_ResNet50, DeepLabV3_ResNet101, DeepLabV3_MobileNet
+tensorboard: False
+random_seed: 42
+
+# Optimizer
+optimizer: Adam # Adam, RMSProp, AdaBelief
+adam_beta1: 0.9
+adam_beta2: 0.999
+n_epochs: 250
+
+# Loss function
+bce_weight: 0.5
+initial_lambda: 0.0
+lambda_increment_per_epoch: 0.005
+n_increment_epochs: 0
+
+# Data reading
+dataset: dataset8.yaml
+workers: 16
+batch_size: 32
+cache: rram # ram or disk
+data_augmentation: True
+grayscale: True
+bilinear: True
+remote: True
+change_string: /workspace/shared_files/
+new_string: /home/imartinez/
+multi_gpu: False
+device: 'cuda:1'
+
+# Training parameters
+learning_rate: 0.0025
+pretrained_weights_path: experiments_arquitectura/exp9/weights/last.pt
+pretrained_weights: False
+adversarial_training: True
+epsilon: 0.1
+
+# UnetSharp only
+nc: 32
+pooling: Max # Max, Hartley, Hybrid
+dropout: none # dropout, dropblock, none
+dropout_p: 0.0000125
+block_size: 9 # Dropblock
+
+

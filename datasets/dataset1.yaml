@@ -1,0 +1,3 @@
+train: /workspace/shared_files/TFM/Code/datasets/Dataset1/train_dataset1.csv
+val: /workspace/shared_files/TFM/Code/datasets/Dataset1/val_dataset1.csv
+test: /workspace/shared_files/TFM/Code/datasets/Dataset1/val_dataset1.csv
