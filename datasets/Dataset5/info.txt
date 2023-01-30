@@ -1,0 +1,4 @@
+Primer dataset con los 3 conjuntos: train, val y test.
+
+	Train y val: BUSI, BUSIS, paper1.12 y expandedUnet paper mezcladas y spliteadas
+	Test: DatasetB -> para compararnos con el resto de papers

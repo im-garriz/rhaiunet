@@ -1,0 +1,3 @@
+train: /home/imartinez/Code/datasets/DatasetB/train_dataset.csv
+val: /home/imartinez/Code/datasets/DatasetB/val_dataset.csv
+test: /home/imartinez/Code/datasets/DatasetB/test_dataset.csv

@@ -1,0 +1,17 @@
+image_path,gt_path,label
+/workspace/shared_files/Dataset_TFM/images/DatasetB/malignant_000135.png,/workspace/shared_files/Dataset_TFM/gt/DatasetB/malignant_000135.png,malignant
+/workspace/shared_files/Dataset_TFM/images/DatasetB/benign_000129.png,/workspace/shared_files/Dataset_TFM/gt/DatasetB/benign_000129.png,benign
+/workspace/shared_files/Dataset_TFM/images/DatasetB/benign_000080.png,/workspace/shared_files/Dataset_TFM/gt/DatasetB/benign_000080.png,benign
+/workspace/shared_files/Dataset_TFM/images/DatasetB/benign_000085.png,/workspace/shared_files/Dataset_TFM/gt/DatasetB/benign_000085.png,benign
+/workspace/shared_files/Dataset_TFM/images/DatasetB/benign_000108.png,/workspace/shared_files/Dataset_TFM/gt/DatasetB/benign_000108.png,benign
+/workspace/shared_files/Dataset_TFM/images/DatasetB/benign_000075.png,/workspace/shared_files/Dataset_TFM/gt/DatasetB/benign_000075.png,benign
+/workspace/shared_files/Dataset_TFM/images/DatasetB/benign_000019.png,/workspace/shared_files/Dataset_TFM/gt/DatasetB/benign_000019.png,benign
+/workspace/shared_files/Dataset_TFM/images/DatasetB/malignant_000136.png,/workspace/shared_files/Dataset_TFM/gt/DatasetB/malignant_000136.png,malignant
+/workspace/shared_files/Dataset_TFM/images/DatasetB/malignant_000295.png,/workspace/shared_files/Dataset_TFM/gt/DatasetB/malignant_000295.png,malignant
+/workspace/shared_files/Dataset_TFM/images/DatasetB/benign_000058.png,/workspace/shared_files/Dataset_TFM/gt/DatasetB/benign_000058.png,benign
+/workspace/shared_files/Dataset_TFM/images/DatasetB/benign_000123.png,/workspace/shared_files/Dataset_TFM/gt/DatasetB/benign_000123.png,benign
+/workspace/shared_files/Dataset_TFM/images/DatasetB/malignant_000305.png,/workspace/shared_files/Dataset_TFM/gt/DatasetB/malignant_000305.png,malignant
+/workspace/shared_files/Dataset_TFM/images/DatasetB/malignant_000139.png,/workspace/shared_files/Dataset_TFM/gt/DatasetB/malignant_000139.png,malignant
+/workspace/shared_files/Dataset_TFM/images/DatasetB/malignant_000048.png,/workspace/shared_files/Dataset_TFM/gt/DatasetB/malignant_000048.png,malignant
+/workspace/shared_files/Dataset_TFM/images/DatasetB/benign_000127.png,/workspace/shared_files/Dataset_TFM/gt/DatasetB/benign_000127.png,benign
+/workspace/shared_files/Dataset_TFM/images/DatasetB/benign_000065.png,/workspace/shared_files/Dataset_TFM/gt/DatasetB/benign_000065.png,benign

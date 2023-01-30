@@ -1,0 +1,126 @@
+image_path,gt_path,label
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case422.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case422.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/normal (117).png,/home/imartinez/Dataset_TFM/gt/BUSI/normal (117).png,normal
+/home/imartinez/Dataset_TFM/images/BUSI/benign (25).png,/home/imartinez/Dataset_TFM/gt/BUSI/benign (25).png,benign
+/home/imartinez/Dataset_TFM/images/ExpandedUnetPaper/benign_101.png,/home/imartinez/Dataset_TFM/gt/ExpandedUnetPaper/benign_101.png,benign
+/home/imartinez/Dataset_TFM/images/ExpandedUnetPaper/benign_142.png,/home/imartinez/Dataset_TFM/gt/ExpandedUnetPaper/benign_142.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/malignant (127).png,/home/imartinez/Dataset_TFM/gt/BUSI/malignant (127).png,malignant
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case75.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case75.png,benign
+/home/imartinez/Dataset_TFM/images/DatasetB/benign_000080.png,/home/imartinez/Dataset_TFM/gt/DatasetB/benign_000080.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/malignant (140).png,/home/imartinez/Dataset_TFM/gt/BUSI/malignant (140).png,malignant
+/home/imartinez/Dataset_TFM/images/BUSI/benign (133).png,/home/imartinez/Dataset_TFM/gt/BUSI/benign (133).png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case153.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case153.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/malignant (147).png,/home/imartinez/Dataset_TFM/gt/BUSI/malignant (147).png,malignant
+/home/imartinez/Dataset_TFM/images/DatasetB/malignant_000048.png,/home/imartinez/Dataset_TFM/gt/DatasetB/malignant_000048.png,malignant
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case27.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case27.png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case126.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case126.png,benign
+/home/imartinez/Dataset_TFM/images/DatasetB/malignant_000027.png,/home/imartinez/Dataset_TFM/gt/DatasetB/malignant_000027.png,malignant
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case489.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case489.png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case241.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case241.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/normal (78).png,/home/imartinez/Dataset_TFM/gt/BUSI/normal (78).png,normal
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case532.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case532.png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case66.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case66.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/benign (419).png,/home/imartinez/Dataset_TFM/gt/BUSI/benign (419).png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/malignant (45).png,/home/imartinez/Dataset_TFM/gt/BUSI/malignant (45).png,malignant
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case53.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case53.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/benign (388).png,/home/imartinez/Dataset_TFM/gt/BUSI/benign (388).png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/normal (39).png,/home/imartinez/Dataset_TFM/gt/BUSI/normal (39).png,normal
+/home/imartinez/Dataset_TFM/images/BUSI/normal (112).png,/home/imartinez/Dataset_TFM/gt/BUSI/normal (112).png,normal
+/home/imartinez/Dataset_TFM/images/ExpandedUnetPaper/benign_160.png,/home/imartinez/Dataset_TFM/gt/ExpandedUnetPaper/benign_160.png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case329.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case329.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/normal (48).png,/home/imartinez/Dataset_TFM/gt/BUSI/normal (48).png,normal
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case458.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case458.png,benign
+/home/imartinez/Dataset_TFM/images/ExpandedUnetPaper/benign_133.png,/home/imartinez/Dataset_TFM/gt/ExpandedUnetPaper/benign_133.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/benign (221).png,/home/imartinez/Dataset_TFM/gt/BUSI/benign (221).png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case518.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case518.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/benign (124).png,/home/imartinez/Dataset_TFM/gt/BUSI/benign (124).png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/benign (57).png,/home/imartinez/Dataset_TFM/gt/BUSI/benign (57).png,benign
+/home/imartinez/Dataset_TFM/images/ExpandedUnetPaper/benign_126.png,/home/imartinez/Dataset_TFM/gt/ExpandedUnetPaper/benign_126.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/benign (232).png,/home/imartinez/Dataset_TFM/gt/BUSI/benign (232).png,benign
+/home/imartinez/Dataset_TFM/images/DatasetB/benign_000072.png,/home/imartinez/Dataset_TFM/gt/DatasetB/benign_000072.png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case243.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case243.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/normal (53).png,/home/imartinez/Dataset_TFM/gt/BUSI/normal (53).png,normal
+/home/imartinez/Dataset_TFM/images/BUSI/benign (368).png,/home/imartinez/Dataset_TFM/gt/BUSI/benign (368).png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/normal (104).png,/home/imartinez/Dataset_TFM/gt/BUSI/normal (104).png,normal
+/home/imartinez/Dataset_TFM/images/BUSI/normal (36).png,/home/imartinez/Dataset_TFM/gt/BUSI/normal (36).png,normal
+/home/imartinez/Dataset_TFM/images/DatasetB/benign_000122.png,/home/imartinez/Dataset_TFM/gt/DatasetB/benign_000122.png,benign
+/home/imartinez/Dataset_TFM/images/ExpandedUnetPaper/benign_148.png,/home/imartinez/Dataset_TFM/gt/ExpandedUnetPaper/benign_148.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/normal (97).png,/home/imartinez/Dataset_TFM/gt/BUSI/normal (97).png,normal
+/home/imartinez/Dataset_TFM/images/BUSI/malignant (134).png,/home/imartinez/Dataset_TFM/gt/BUSI/malignant (134).png,malignant
+/home/imartinez/Dataset_TFM/images/BUSI/benign (59).png,/home/imartinez/Dataset_TFM/gt/BUSI/benign (59).png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/benign (159).png,/home/imartinez/Dataset_TFM/gt/BUSI/benign (159).png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/benign (186).png,/home/imartinez/Dataset_TFM/gt/BUSI/benign (186).png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case188.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case188.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/normal (71).png,/home/imartinez/Dataset_TFM/gt/BUSI/normal (71).png,normal
+/home/imartinez/Dataset_TFM/images/BUSI/benign (311).png,/home/imartinez/Dataset_TFM/gt/BUSI/benign (311).png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case306.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case306.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/benign (51).png,/home/imartinez/Dataset_TFM/gt/BUSI/benign (51).png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/benign (72).png,/home/imartinez/Dataset_TFM/gt/BUSI/benign (72).png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/benign (49).png,/home/imartinez/Dataset_TFM/gt/BUSI/benign (49).png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case50.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case50.png,benign
+/home/imartinez/Dataset_TFM/images/ExpandedUnetPaper/benign_1.png,/home/imartinez/Dataset_TFM/gt/ExpandedUnetPaper/benign_1.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/benign (145).png,/home/imartinez/Dataset_TFM/gt/BUSI/benign (145).png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/malignant (99).png,/home/imartinez/Dataset_TFM/gt/BUSI/malignant (99).png,malignant
+/home/imartinez/Dataset_TFM/images/ExpandedUnetPaper/benign_58.png,/home/imartinez/Dataset_TFM/gt/ExpandedUnetPaper/benign_58.png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case376.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case376.png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case561.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case561.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/malignant (38).png,/home/imartinez/Dataset_TFM/gt/BUSI/malignant (38).png,malignant
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case48.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case48.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/benign (279).png,/home/imartinez/Dataset_TFM/gt/BUSI/benign (279).png,benign
+/home/imartinez/Dataset_TFM/images/ExpandedUnetPaper/benign_37.png,/home/imartinez/Dataset_TFM/gt/ExpandedUnetPaper/benign_37.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/normal (38).png,/home/imartinez/Dataset_TFM/gt/BUSI/normal (38).png,normal
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case452.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case452.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/malignant (142).png,/home/imartinez/Dataset_TFM/gt/BUSI/malignant (142).png,malignant
+/home/imartinez/Dataset_TFM/images/BUSI/normal (76).png,/home/imartinez/Dataset_TFM/gt/BUSI/normal (76).png,normal
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case91.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case91.png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case129.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case129.png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case44.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case44.png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case55.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case55.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/benign (194).png,/home/imartinez/Dataset_TFM/gt/BUSI/benign (194).png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/malignant (100).png,/home/imartinez/Dataset_TFM/gt/BUSI/malignant (100).png,malignant
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case514.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case514.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/benign (195).png,/home/imartinez/Dataset_TFM/gt/BUSI/benign (195).png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case173.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case173.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/benign (277).png,/home/imartinez/Dataset_TFM/gt/BUSI/benign (277).png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/malignant (115).png,/home/imartinez/Dataset_TFM/gt/BUSI/malignant (115).png,malignant
+/home/imartinez/Dataset_TFM/images/BUSI/malignant (17).png,/home/imartinez/Dataset_TFM/gt/BUSI/malignant (17).png,malignant
+/home/imartinez/Dataset_TFM/images/BUSI/normal (19).png,/home/imartinez/Dataset_TFM/gt/BUSI/normal (19).png,normal
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case287.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case287.png,benign
+/home/imartinez/Dataset_TFM/images/DatasetB/malignant_000055.png,/home/imartinez/Dataset_TFM/gt/DatasetB/malignant_000055.png,malignant
+/home/imartinez/Dataset_TFM/images/ExpandedUnetPaper/benign_49.png,/home/imartinez/Dataset_TFM/gt/ExpandedUnetPaper/benign_49.png,benign
+/home/imartinez/Dataset_TFM/images/DatasetB/benign_000017.png,/home/imartinez/Dataset_TFM/gt/DatasetB/benign_000017.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/benign (70).png,/home/imartinez/Dataset_TFM/gt/BUSI/benign (70).png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case351.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case351.png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case467.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case467.png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case315.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case315.png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case537.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case537.png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case275.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case275.png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case51.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case51.png,benign
+/home/imartinez/Dataset_TFM/images/ExpandedUnetPaper/benign_7.png,/home/imartinez/Dataset_TFM/gt/ExpandedUnetPaper/benign_7.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/normal (73).png,/home/imartinez/Dataset_TFM/gt/BUSI/normal (73).png,normal
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case403.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case403.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/normal (124).png,/home/imartinez/Dataset_TFM/gt/BUSI/normal (124).png,normal
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case16.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case16.png,benign
+/home/imartinez/Dataset_TFM/images/ExpandedUnetPaper/benign_67.png,/home/imartinez/Dataset_TFM/gt/ExpandedUnetPaper/benign_67.png,benign
+/home/imartinez/Dataset_TFM/images/ExpandedUnetPaper/benign_124.png,/home/imartinez/Dataset_TFM/gt/ExpandedUnetPaper/benign_124.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/benign (217).png,/home/imartinez/Dataset_TFM/gt/BUSI/benign (217).png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case64.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case64.png,benign
+/home/imartinez/Dataset_TFM/images/ExpandedUnetPaper/benign_171.png,/home/imartinez/Dataset_TFM/gt/ExpandedUnetPaper/benign_171.png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case310.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case310.png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case331.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case331.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/benign (27).png,/home/imartinez/Dataset_TFM/gt/BUSI/benign (27).png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case160.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case160.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/normal (58).png,/home/imartinez/Dataset_TFM/gt/BUSI/normal (58).png,normal
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case427.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case427.png,benign
+/home/imartinez/Dataset_TFM/images/DatasetB/benign_000006.png,/home/imartinez/Dataset_TFM/gt/DatasetB/benign_000006.png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case557.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case557.png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case360.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case360.png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/malignant (94).png,/home/imartinez/Dataset_TFM/gt/BUSI/malignant (94).png,malignant
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case230.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case230.png,benign
+/home/imartinez/Dataset_TFM/images/DatasetB/malignant_000302.png,/home/imartinez/Dataset_TFM/gt/DatasetB/malignant_000302.png,malignant
+/home/imartinez/Dataset_TFM/images/BUSI/malignant (21).png,/home/imartinez/Dataset_TFM/gt/BUSI/malignant (21).png,malignant
+/home/imartinez/Dataset_TFM/images/BUSI/benign (242).png,/home/imartinez/Dataset_TFM/gt/BUSI/benign (242).png,benign
+/home/imartinez/Dataset_TFM/images/BUSI/malignant (186).png,/home/imartinez/Dataset_TFM/gt/BUSI/malignant (186).png,malignant
+/home/imartinez/Dataset_TFM/images/BUSI/benign (127).png,/home/imartinez/Dataset_TFM/gt/BUSI/benign (127).png,benign
+/home/imartinez/Dataset_TFM/images/BUSIS/benign_case384.png,/home/imartinez/Dataset_TFM/gt/BUSIS/benign_case384.png,benign
+/home/imartinez/Dataset_TFM/images/DatasetB/benign_000037.png,/home/imartinez/Dataset_TFM/gt/DatasetB/benign_000037.png,benign

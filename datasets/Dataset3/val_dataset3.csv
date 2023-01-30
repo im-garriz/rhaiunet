@@ -1,0 +1,265 @@
+image_path,gt_path,label
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_40.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_40.png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (330).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (330).png,benign
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_121.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_121.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (165).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (165).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (297).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (297).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (285).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (285).png,benign
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_149.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_149.png,benign
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_129.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_129.png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_6.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_6.png,malignant
+/workspace/shared_files/TFM_Dataset/images/DatasetB/benign_000064.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/benign_000064.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (219).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (219).png,benign
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_168.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_168.png,benign
+/workspace/shared_files/TFM_Dataset/images/DatasetB/benign_000110.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/benign_000110.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (406).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (406).png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_13.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_13.png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_292.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_292.png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (42).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (42).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (175).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (175).png,malignant
+/workspace/shared_files/TFM_Dataset/images/DatasetB/benign_000093.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/benign_000093.png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_370.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_370.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (59).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (59).png,benign
+/workspace/shared_files/TFM_Dataset/images/DatasetB/benign_000014.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/benign_000014.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (341).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (341).png,benign
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_79.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_79.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (185).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (185).png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (304).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (304).png,benign
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_91.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_91.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (140).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (140).png,benign
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/malignant_185.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/malignant_185.png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (43).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (43).png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_215.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_215.png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_400.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_400.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (205).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (205).png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (158).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (158).png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (360).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (360).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (46).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (46).png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (112).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (112).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (120).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (120).png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_60.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_60.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (207).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (207).png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (420).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (420).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (157).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (157).png,malignant
+/workspace/shared_files/TFM_Dataset/images/DatasetB/benign_000005.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/benign_000005.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (395).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (395).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (259).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (259).png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_264.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_264.png,malignant
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_144.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_144.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (237).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (237).png,benign
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_102.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_102.png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_213.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_213.png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (9).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (9).png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_207.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_207.png,malignant
+/workspace/shared_files/TFM_Dataset/images/DatasetB/benign_000071.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/benign_000071.png,benign
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_85.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_85.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (200).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (200).png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_98.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_98.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (363).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (363).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (350).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (350).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (163).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (163).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (77).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (77).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (84).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (84).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (189).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (189).png,malignant
+/workspace/shared_files/TFM_Dataset/images/DatasetB/malignant_000054.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/malignant_000054.png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_346.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_346.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (153).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (153).png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (90).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (90).png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_358.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_358.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (30).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (30).png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (423).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (423).png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_53.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_53.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (57).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (57).png,benign
+/workspace/shared_files/TFM_Dataset/images/DatasetB/benign_000080.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/benign_000080.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (154).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (154).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (253).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (253).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (131).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (131).png,malignant
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_128.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_128.png,benign
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/malignant_187.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/malignant_187.png,malignant
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_86.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_86.png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_12.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_12.png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_247.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_247.png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (79).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (79).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (146).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (146).png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (27).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (27).png,benign
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_146.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_146.png,benign
+/workspace/shared_files/TFM_Dataset/images/DatasetB/malignant_000050.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/malignant_000050.png,malignant
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_150.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_150.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (1).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (1).png,malignant
+/workspace/shared_files/TFM_Dataset/images/DatasetB/benign_000090.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/benign_000090.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (182).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (182).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (72).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (72).png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_95.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_95.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (86).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (86).png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_219.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_219.png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_323.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_323.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (183).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (183).png,malignant
+/workspace/shared_files/TFM_Dataset/images/DatasetB/benign_000114.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/benign_000114.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (217).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (217).png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_35.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_35.png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (340).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (340).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (39).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (39).png,malignant
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_114.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_114.png,benign
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_113.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_113.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (284).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (284).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (75).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (75).png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_200.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_200.png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (162).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (162).png,benign
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_148.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_148.png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_375.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_375.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (347).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (347).png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_384.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_384.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (150).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (150).png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_218.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_218.png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (317).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (317).png,benign
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_23.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_23.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (28).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (28).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (34).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (34).png,malignant
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_71.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_71.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (365).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (365).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (177).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (177).png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (80).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (80).png,malignant
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_69.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_69.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (15).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (15).png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_391.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_391.png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_347.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_347.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (112).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (112).png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (184).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (184).png,malignant
+/workspace/shared_files/TFM_Dataset/images/DatasetB/benign_000056.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/benign_000056.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (127).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (127).png,malignant
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_28.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_28.png,benign
+/workspace/shared_files/TFM_Dataset/images/DatasetB/benign_000111.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/benign_000111.png,benign
+/workspace/shared_files/TFM_Dataset/images/DatasetB/malignant_000134.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/malignant_000134.png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_383.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_383.png,benign
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_62.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_62.png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_251.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_251.png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (136).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (136).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (49).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (49).png,malignant
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_154.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_154.png,benign
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_61.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_61.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (267).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (267).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (133).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (133).png,malignant
+/workspace/shared_files/TFM_Dataset/images/DatasetB/benign_000105.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/benign_000105.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (78).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (78).png,malignant
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_72.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_72.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (157).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (157).png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_77.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_77.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (196).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (196).png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (136).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (136).png,malignant
+/workspace/shared_files/TFM_Dataset/images/DatasetB/malignant_000295.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/malignant_000295.png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (261).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (261).png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_253.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_253.png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_333.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_333.png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_368.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_368.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (40).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (40).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (174).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (174).png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (106).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (106).png,benign
+/workspace/shared_files/TFM_Dataset/images/DatasetB/benign_000079.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/benign_000079.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (61).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (61).png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (141).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (141).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (44).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (44).png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_209.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_209.png,malignant
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/malignant_190.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/malignant_190.png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_226.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_226.png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (174).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (174).png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_61.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_61.png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_605.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_605.png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (85).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (85).png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_284.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_284.png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (147).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (147).png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_99.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_99.png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_11.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_11.png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (179).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (179).png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_91.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_91.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (83).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (83).png,malignant
+/workspace/shared_files/TFM_Dataset/images/DatasetB/benign_000108.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/benign_000108.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (153).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (153).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (364).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (364).png,benign
+/workspace/shared_files/TFM_Dataset/images/DatasetB/benign_000017.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/benign_000017.png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_79.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_79.png,benign
+/workspace/shared_files/TFM_Dataset/images/DatasetB/benign_000099.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/benign_000099.png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_3.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_3.png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (224).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (224).png,benign
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_99.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_99.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (325).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (325).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (194).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (194).png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_296.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_296.png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_68.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_68.png,benign
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/malignant_198.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/malignant_198.png,malignant
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/malignant_192.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/malignant_192.png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_245.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_245.png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (20).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (20).png,benign
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_39.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_39.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (78).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (78).png,benign
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_24.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_24.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (227).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (227).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (4).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (4).png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (54).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (54).png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (398).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (398).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (201).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (201).png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (114).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (114).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (208).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (208).png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_37.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_37.png,malignant
+/workspace/shared_files/TFM_Dataset/images/DatasetB/malignant_000140.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/malignant_000140.png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_262.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_262.png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (116).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (116).png,benign
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_13.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_13.png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_258.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_258.png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_228.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_228.png,malignant
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/malignant_196.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/malignant_196.png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (421).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (421).png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_14.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_14.png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (70).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (70).png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_236.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_236.png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (181).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (181).png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (172).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (172).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (246).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (246).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (29).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (29).png,benign
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/malignant_189.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/malignant_189.png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (428).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (428).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (264).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (264).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (434).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (434).png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_113.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_113.png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_225.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_225.png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_394.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_394.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (55).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (55).png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (193).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (193).png,benign
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_21.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_21.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (141).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (141).png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_353.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_353.png,benign
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_106.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_106.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (376).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (376).png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_250.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_250.png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (127).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (127).png,benign
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_66.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_66.png,benign
+/workspace/shared_files/TFM_Dataset/images/DatasetB/malignant_000299.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/malignant_000299.png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (277).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (277).png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_41.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_41.png,malignant
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_110.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_110.png,benign
+/workspace/shared_files/TFM_Dataset/images/DatasetB/benign_000001.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/benign_000001.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (159).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (159).png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (170).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (170).png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (33).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (33).png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (173).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (173).png,benign
+/workspace/shared_files/TFM_Dataset/images/DatasetB/malignant_000144.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/malignant_000144.png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (425).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (425).png,benign
+/workspace/shared_files/TFM_Dataset/images/DatasetB/malignant_000296.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/malignant_000296.png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_335.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_335.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (62).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (62).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (198).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (198).png,benign
+/workspace/shared_files/TFM_Dataset/images/DatasetB/benign_000059.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/benign_000059.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/malignant (137).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/malignant (137).png,malignant
+/workspace/shared_files/TFM_Dataset/images/DatasetB/malignant_000301.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/malignant_000301.png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_benign_339.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_benign_339.png,benign
+/workspace/shared_files/TFM_Dataset/images/DatasetB/benign_000010.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/benign_000010.png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (63).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (63).png,benign
+/workspace/shared_files/TFM_Dataset/images/DatasetB/benign_000040.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/benign_000040.png,benign
+/workspace/shared_files/TFM_Dataset/images/DatasetB/malignant_000306.png,/workspace/shared_files/TFM_Dataset/gt/DatasetB/malignant_000306.png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_600.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_600.png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (311).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (311).png,benign
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (282).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (282).png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_299.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_299.png,malignant
+/workspace/shared_files/TFM_Dataset/images/ExpandedUnetPaper/benign_83.png,/workspace/shared_files/TFM_Dataset/gt/ExpandedUnetPaper/benign_83.png,benign
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_291.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_291.png,malignant
+/workspace/shared_files/TFM_Dataset/images/Dataset_paper1-12/D1-12_malignant_221.png,/workspace/shared_files/TFM_Dataset/gt/Dataset_paper1-12/D1-12_malignant_221.png,malignant
+/workspace/shared_files/TFM_Dataset/images/BUSI/benign (95).png,/workspace/shared_files/TFM_Dataset/gt/BUSI/benign (95).png,benign

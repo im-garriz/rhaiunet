@@ -1,0 +1,3 @@
+train: D:/Code/tf/datasets/Dataset8/train_dataset.csv
+val: D:/Code/tf/datasets/Dataset8/val_dataset.csv
+test: D:/Code/tf/datasets/Dataset8/test_dataset.csv

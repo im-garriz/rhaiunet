@@ -1,0 +1,70 @@
+---
+###################################################
+######## HYPERPARAMETERS AND CONFIGURATION ########
+###################################################
+
+## Common ##
+# Model to train: select one among the comments
+# SegNet_VGG19, FCN8s, FCN16VGG, FCN32VGG, UNet, RDAUNet, UNetpp, RHAIUNet, DeepLabV3_Xception, DeepLabV3_ResNet50, DeepLabV3_ResNet101, DeepLabV3_MobileNet
+net: RHAIUNet # UNet, RDAUNet, UNet2, UNetpp, UnetSharp, UNetSharp2, UNetSharp_noSP, SegNet_VGG19, FCN8s, FCN16VGG, FCN32VGG, DeepLabV3_Xception, DeepLabV3_ResNet50, DeepLabV3_ResNet101, DeepLabV3_MobileNet
+# Whether to use tensorboard or not
+tensorboard: False
+random_seed: 42
+
+## Optimizer ##
+# Select one among the comments
+optimizer: Adam # Adam, AdaBelief
+# Only for Adam:
+adam_beta1: 0.9
+adam_beta2: 0.999
+
+# Loss function
+bce_weight: 0.5
+# DSC weight = 1 - bce_weight
+
+## Data reading ##
+# File that contains paths of csv files with info about train, val and test sets
+dataset: dataset8W.yaml
+# Number of workers for pytorch dataloaders
+workers: 1 # 16
+batch_size: 8 # 32
+# Whether to cache all images on ram or not
+cache: disk # ram or disk
+# To use csvs created on a PC in other PCs, change_string is the
+# PATH of the dataset in the first PC and new_string the PATH on
+# the current PC
+remote: True
+change_string: /home/imartinez/
+new_string: D:\
+
+## Images processing ##
+data_augmentation: True
+grayscale: True # If true, images are loaded as grayscale (1 channel), else, color as color images (3 RGB channels)
+
+## Device ##
+device: 'cuda:0'
+# If more than 1 GPU is to be used
+multi_gpu: False
+# IDs of the GPUs to be used
+device_ids: [1, 2]
+
+## Training parameters ##
+n_epochs: 5
+learning_rate: 0.0025
+pretrained_weights_path: D:\\TFM32\\Code\\_experiments\\exp1\\weights\\last.pt # Relative/absolute, both work
+# Whether to load pretained weights before training
+pretrained_weights: True
+adversarial_training: True
+epsilon: 0.1 # Adversarial training
+
+## RHAIU-Net only ##
+# Number of channels of the first layer
+nc: 32
+# Pooling: select one among comments
+pooling: Hartley # Max, Hartley, Hybrid
+# Dropout: select one among comments
+dropout: none # dropout, dropblock, none
+dropout_p: 0.0000125 # Dropout probability
+block_size: 9 # Dropblock
+
+

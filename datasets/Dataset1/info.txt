@@ -1,0 +1,1 @@
+ Datasets: BUSI, DatasetB y Expanded Unet, proporcion train-val 80-20, mezclados entre si, sin estratificar, sin conjunto de test (test = val)
