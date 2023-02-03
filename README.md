@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=600px src="images/architecture.png" alt="Project logo"></a>
+ <img width=200px src="images/logo.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">RHAIU-NET: Precise Tumor segmentation on Breast Ultrasound Images</h3>
@@ -17,6 +17,11 @@
 <p align="center"> RHAUI-Net Implementation, an architecture based on RDAU-Net for breast ultrasound segmentation.
     <br> 
 </p>
+
+<p align="center">
+ <img width=600px src="images/architecture.png"></a>
+</p>
+
 
 ## 📝 Table of Contents
 
